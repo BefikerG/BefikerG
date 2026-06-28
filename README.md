@@ -26,7 +26,7 @@ Continuously developing my skills, I am currently working on projects that chall
 
 ### Connect with Me 🌐
 
-+ Telegram: [@Thirstyasf](https://t.me/@Drmakeit)
++ Telegram: [@imbefiker](https://t.me/@imbefiker)
 + Instagram: [Befiker G](https://instagram.com/@imbefiker)
 + Facebook: [Befiker G HMichael](https://facebook.com/BefikerG)
 + LinkedIn: [Under Construction](#)
