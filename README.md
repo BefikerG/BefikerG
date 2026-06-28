@@ -1,37 +1,50 @@
-## Hello World👋
+# Hello World 👋
 
-# I'm Befiker Gezahegn |🤓 🚀
+# I'm Befiker Gezahegn | 💻🚀
 
 ## Introduction 🌟
 
-Hello there! I'm Befiker Gezahegn, a passionate programmer and front-end developer with a keen interest in fin-tech. Currently pursuing studies in Software Engineering at [Addis Ababa Institute of Technology (AAiT)](https://aait.edu.et), I am dedicated to developing my craft and contributing to the ever-evolving tech landscape.
+Hello there! I'm Befiker Gezahegn, a passionate Software Engineering student at Addis Ababa University. Over the last few years, my focus has shifted deeper into backend systems, enterprise software architecture, and building scalable applications. I thrive on turning complex business logic into clean, robust code, optimizing developer workflows, and building modern, responsive interfaces.
+
+---
 
 ## Professional Snapshot 🎓
 
-+ **Field of Study**: Software Engineering at [AAiT](https://aait.edu.et).
-  
-+ **Technical Expertise**: Front-end development, programming, and a deep interest in financial technology.
-  
-+ **Musical Passion**: A Jazz enthusiast and music production aficionado.
+* **Field of Study:** Software Engineering at Addis Ababa University (AAU).
+* **Technical Expertise:** Backend Engineering, Enterprise Architecture, REST API Design, and Full-Stack Development.
+* **Core Stack:** Java, Spring Boot, React, TypeScript, JavaScript, PostgreSQL, Docker.
+* **Creative Passions:** Music production (specifically crafting Indie, RnB, Pop and Soul arrangements) and professional video editing.
 
-## Achievements and Certifications 🏆
+---
 
-+ **Certification**: Data Analyst from [HP Life Organization](https://www.life-global.org/) and [YMCA](https://www.ymca.int/).
-  
-+ **Certification**: UI/UX Designer from [MindLuster](https://mindluster.com).
+## Technical Skills 🛠️
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, TypeScript, JavaScript, SQL |
+| **Frameworks & Libraries**| Spring Boot, React |
+| **Tools & Databases** | Docker, PostgreSQL |
+| **Architectures & Workflows**| REST APIs, Multi-tenant SaaS, AI-Assisted Development |
+
+---
 
 ## Current Focus 🔧
 
-Continuously developing my skills, I am currently working on projects that challenge and refine my abilities.
+* 🏢 **SaaS Architecture:** Designing and engineering a multi-tenant property management SaaS platform from the ground up, focusing strictly on robust business logic and scalable systems architecture.
+* 🏟️ **PitchPerfect:** Developing a Spring Boot-based sports venue and turf booking platform, working closely on backend architecture and full-stack integrations.
+* 🤖 **Workflow Automation:** Configuring local AI-driven development environments to streamline solo engineering pipelines.
 
-### Connect with Me 🌐
+---
 
-+ Telegram: [@imbefiker](https://t.me/@imbefiker)
-+ Instagram: [Befiker G](https://instagram.com/@imbefiker)
-+ Facebook: [Befiker G HMichael](https://facebook.com/BefikerG)
-+ LinkedIn: [Under Construction](#)
+## Connect with Me 🌐
 
-## Let's Connect 🤝
+* **Telegram:** [@imbefiker](https://t.me/imbefiker)
+* **X (Twitter):** [@BefikerG_](https://x.com/BefikerG_)
+* **Instagram:** [@imbefiker](https://instagram.com/imbefiker)
+* **Facebook:** [Befiker G HMichael](https://facebook.com/BefikerG)
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and collaborators. Feel free to explore my GitHub projects and drop me a message. Let's build something amazing together!
+---
 
+### Let's Connect 🤝
+
+I'm always open to discussing full-stack development, backend architecture, enterprise solutions, or creative collaborations in music and video. Feel free to explore my repositories or reach out!
