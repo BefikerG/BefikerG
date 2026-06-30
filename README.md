@@ -41,7 +41,7 @@ Hello there! I'm Befiker Gezahegn, a passionate Software Engineering student at 
 * **Telegram:** [@imbefiker](https://t.me/imbefiker)
 * **X (Twitter):** [@BefikerG_](https://x.com/BefikerG_)
 * **Instagram:** [@imbefiker](https://instagram.com/imbefiker)
-* **Facebook:** [Befiker G HMichael](https://facebook.com/BefikerG)
+* **Facebook:** [Befiker G HMichael](https://facebook.com/imbefiker)
 
 ---
 
