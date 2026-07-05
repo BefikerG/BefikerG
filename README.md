@@ -38,10 +38,10 @@ Hello there! I'm Befiker Gezahegn, a passionate Software Engineering student at 
 
 ## Connect with Me 🌐
 
-* **Telegram:** [@imbefiker](https://t.me/imbefiker)
+* **Telegram:** [Befiker Gezahegn](https://t.me/imbefiker)
 * **X (Twitter):** [@BefikerG_](https://x.com/BefikerG_)
-* **Instagram:** [@imbefiker](https://instagram.com/imbefiker)
-* **Facebook:** [Befiker G HMichael](https://facebook.com/imbefiker)
+* **Instagram:** [Befiker Gezahegn](https://instagram.com/imbefiker)
+* **Facebook:** [Befiker Gezahegn](https://facebook.com/imbefiker)
 
 ---
 
