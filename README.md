@@ -135,7 +135,7 @@ status: "Open to opportunities & collaborations"
 
 ---
 
-### 🎯 Current Goals (2025)
+### 🎯 Current Goals (2026)
 
 - [ ] **Launch PitchPerfect MVP** - Complete booking platform with payment integration
 - [ ] **Architect PropManage SaaS** - Design multi-tenant schema & API gateway
@@ -176,5 +176,5 @@ status: "Open to opportunities & collaborations"
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ using <a href="https://github.com/BefikerG">GitHub</a> • Last updated: July 5, 2025</sub>
+  <sub>Built with ❤️ using <a href="https://github.com/BefikerG">GitHub</a> • Last updated: July 5, 2026</sub>
 </p>
