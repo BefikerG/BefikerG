@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+Befike[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+Befiker+Gezahegn;Backend+Engineer;SaaS+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ status: "Open to opportunities & collaborations"
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BefikerG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&date_format=M%[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BefikerG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BefikerG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
@@ -137,8 +137,8 @@ status: "Open to opportunities & collaborations"
 
 ### 🎯 Current Goals (2026)
 
-- [x] **Launch PitchPerfect MVP** - Complete booking platform with payment integration
-- [x] **Architect PropManage SaaS** - Design multi-tenant schema & API gateway
+- [ ] **Launch PitchPerfect MVP** - Complete booking platform with payment integration
+- [ ] **Architect PropManage SaaS** - Design multi-tenant schema & API gateway
 - [ ] **Contribute to Open Source** - Target Spring ecosystem & developer tools
 - [ ] **Publish Technical Content** - Blog posts on SaaS architecture patterns
 - [ ] **Master Kubernetes** - Production-grade container orchestration
@@ -176,5 +176,5 @@ status: "Open to opportunities & collaborations"
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ using <a href="https://github.com/BefikerG">GitHub</a> • Last updated: July 9, 2026</sub>
+  <sub>Built with ❤️ using <a href="https://github.com/BefikerG">GitHub</a> • Last updated: July 5, 2026</sub>
 </p>
