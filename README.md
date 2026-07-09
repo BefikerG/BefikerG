@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+Befiker+Gezahegn;Software+Engineering+Student;Backend+%7C+SaaS+%7C+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+Befiker+Gezahegn;Backend+Engineer;SaaS+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ status: "Open to opportunities & collaborations"
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BefikerG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BefikerG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BefikerG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
@@ -176,5 +176,5 @@ status: "Open to opportunities & collaborations"
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ using <a href="https://github.com/BefikerG">GitHub</a> • Last updated: July 5, 2026</sub>
+  <sub>Built with ❤️ using <a href="https://github.com/BefikerG">GitHub</a> • Last updated: July 9, 2026</sub>
 </p>
